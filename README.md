@@ -1,0 +1,3 @@
+# oriona
+c'est pas gagné....
+deuxième jour je cherche encore comment ça fonctionne ....bon j'ai hérité d'une version en anglais cool je vais faire des progres en anglais technique! 
